@@ -14,7 +14,7 @@ class DataReader():
     properties = {
         "Id": int,
         "PostTypeId": int,
-        "ParentID": int,
+        "ParentId": int,
         "AcceptedAnswerId": int,
         "CreationDate": dt_parse,
         "Score": int,
