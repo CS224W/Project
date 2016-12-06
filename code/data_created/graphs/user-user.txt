@@ -1,7 +1,3 @@
-# Undirected graph (each unordered pair of nodes is saved once): data_created/graphs/user-user.txt
-# User-user graph created using posts
-# Nodes: 31834 Edges: 335739
-# NodeId	NodeId
 8	8
 8	16
 8	19
